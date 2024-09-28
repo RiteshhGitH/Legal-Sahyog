@@ -12,11 +12,10 @@
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Token)
-- **Deployment**: Deployed on AWS
+- **Frontend**: HTML, CSS, JavaScript, Gradio
+- **Backend**: Hugging Face
+- **Database**: MiniLM
+- **Deployment**: Deployed on Vercel
 
 ## 🚀 Installation
 
