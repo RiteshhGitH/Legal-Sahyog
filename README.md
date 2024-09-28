@@ -38,18 +38,6 @@
 - 📚 **Educational Resource**: Assists law students, professionals, and researchers in accessing legal information.
 - 🔄 **Self-Learning AI**: Continuously improves based on user interactions and feedback.
 
-## 🛠️ Installation
+## 🛠️ Use the Link to Get Started
 
-To run the project locally:
-
-# Clone the repository
-git clone https://github.com/RiteshhGitH/Legal-Sahyog.git
-
-# Navigate to the project directory
-cd Legal-Sahyog
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
+https://bit.ly/legalsahyog
