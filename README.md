@@ -1,6 +1,6 @@
 # ⚖️ Legal Sahyog - NexFordge
 
-**Legal Sahyog** is an AI-powered legal chatbot designed to streamline access to legal services and information. It simplifies user interactions with the Department of Justice's website by providing real-time data on case statuses, eFiling support, legal queries, and more.
+**Legal Sahyog** is an AI-powered legal chatbot designed to streamline access to legal information. It simplifies user interactions with the Department of Justice's website by providing real-time data on case statuses, eFiling support, legal queries, and more.
 
 ## ✨ Features
 
