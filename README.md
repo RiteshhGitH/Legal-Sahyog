@@ -4,6 +4,10 @@
 
 **Legal Sahyog** is an AI-powered legal chatbot designed to streamline access to legal information. It simplifies user interactions with the Department of Justice's website by providing real-time data on case statuses, eFiling support, legal queries, and more.
 
+## 🛠️ Use the Link to Get Started
+
+https://bit.ly/legalsahyog
+
 ## ✨ Features
 
 - 🌐 **Gradio-Based Interface**: Users can interact with the chatbot via a simple and user-friendly interface.
@@ -39,10 +43,6 @@
 - 🌍 **Comprehensive Legal Services**: Integrates multiple legal processes, including eFiling, fine payment, and court updates.
 - 📚 **Educational Resource**: Assists law students, professionals, and researchers in accessing legal information.
 - 🔄 **Self-Learning AI**: Continuously improves based on user interactions and feedback.
-
-## 🛠️ Use the Link to Get Started
-
-https://bit.ly/legalsahyog
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
